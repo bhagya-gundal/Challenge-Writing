@@ -51,15 +51,19 @@ Please incorporate below guidelines in your solution:
     - The depenent variable must be a real number with defined action choices.
 - Data Pre-processing
     - Perform necessary pre-processing steps for time series data.
-    - Example 
-     - check if data is stationery or not?
-      - cast your Date column in date datatype and set it as your index
+    - Example - Check if data is stationery or not? Cast your Date column in date datatype and set it as your index.
               
-1. Create a open-gym ai environment for that dataset to be run for an RL algorithm
-2. Run one of the TF-Agents algorithms on it DQN, REINFORCE, DDPG, TD3, PPO or SAC
-3. Compare the RL learner to a random action agent and simple agents like Thompson sampling, e-greedy, or UBC
-4. Describe signals and action space for the five TF-Agents algorithms (DQN, REINFORCE, DDPG, TD3, PPO or SAC). Can they take continuous or only discrete signals? Can the agent only be used in any environment which has a discrete action space?
-5. What are the pros and cons of the five TF-Agents algorithms (DQN, REINFORCE, DDPG, TD3, PPO or SAC).
+- Create a open-gym ai environment 
+
+- Run one of the TF-Agents algorithms 
+
+- Compare the RL learner 
+
+- Describe signals and action space for the five TF-Agents algorithms 
+    - (DQN, REINFORCE, DDPG, TD3, PPO or SAC). 
+    - Can they take continuous or only discrete signals? 
+    - Can the agent only be used in any environment which has a discrete action space?
+- What are the pros and cons of the five TF-Agents algorithms?
 
 
 ## Your submission:
