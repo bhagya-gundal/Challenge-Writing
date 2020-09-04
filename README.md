@@ -11,7 +11,7 @@ Learning to act optimally on time series data is of practical uses in various in
 
 ## Eligibility: 
 The challenge is open to current Northeastern University students.
-The purpose of this challenge is to pre-screen candidates for a Programmer-Analysts position during the Fall 2020. The position involves working closely with Kinosso. We sincerely hope you will partecipate to the challenge!!
+The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position during the Fall 2020. The position involves working closely with Kinesso. We sincerely hope you will participate to the challenge!!
 
 ## Resources:
 
