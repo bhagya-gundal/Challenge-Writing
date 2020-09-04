@@ -14,8 +14,6 @@ Currently the following algorithms are available under TF-Agents:
 
 *   [DQN: __Human level control through deep reinforcement learning__ Mnih et
     al., 2015](https://deepmind.com/research/dqn/)
-*   [DDQN: __Deep Reinforcement Learning with Double Q-learning__ Hasselt et
-    al., 2015](https://arxiv.org/abs/1509.06461)
 *   [DDPG: __Continuous control with deep reinforcement learning__ Lillicrap et
     al., 2015](https://arxiv.org/abs/1509.02971)
 *   [TD3: __Addressing Function Approximation Error in Actor-Critic Methods__
