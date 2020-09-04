@@ -1,6 +1,8 @@
 
 <img src="kin.png" width="300"/> 
 
+Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutions through enhanced or newly-created products and services, maximizing the impact of traditional and addressable media. Kinesso’s core principle is to drive smarter business decisions and better outcomes for clients using our suite of data and technology services.
+
 # Reinforcement Learning Challenge 2020
 
 ## Eligibility: 
