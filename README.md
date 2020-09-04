@@ -7,7 +7,7 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge begin by finding a multivariate time series dataset whose dependent variable is a real number and has finite action choices. 
+Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm.
 
 ## Eligibility: 
 The challenge is open to the current Northeastern University students.
