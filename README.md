@@ -66,6 +66,7 @@ Please incorporate below guidelines in your solution:
     - Can they take continuous or only discrete signals? 
     - Can the agent only be used in any environment which has a discrete action space?
 - What are the pros and cons of the five TF-Agents algorithms?
+    - Please describe various pros and cons of each of the TF-Agent algorithms briefly.
 
 
 ## Your submission:
