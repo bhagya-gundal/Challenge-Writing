@@ -7,7 +7,7 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm. You are encouraged to run any of the following TF-agent algorithms - DQN, REINFORCE, DDPG, TD3, PPO or SAC on it. Please go through step by step instructions for implementing the challenges.
+Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm. You are encouraged to run any of the following TF-agent algorithms - DQN, REINFORCE, DDPG, TD3, PPO or SAC on it. Please go through step by step implementation guide to meet the requirements of challenge.
 
 
 Currently the following algorithms are available under TF-Agents:
@@ -42,7 +42,7 @@ https://colab.research.google.com/drive/1BHVH712x2Q2As9E5nN5Y8UR74T8w6AMO
 
 
 
-## The challenge:
+## Implementation Guide
 
 1. Create a open-gym ai environment for that dataset to be run for an RL algorithm
 2. Run one of the TF-Agents algorithms on it DQN, REINFORCE, DDPG, TD3, PPO or SAC
