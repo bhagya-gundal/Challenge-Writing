@@ -7,7 +7,7 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-In this challenge you will be working on....
+Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on....
 
 ## Eligibility: 
 The challenge is open to current Northeastern University students.
