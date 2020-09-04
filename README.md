@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcareers.kinesso.com%2F&psig=AOvVaw0ZIwGTb5fGVsf--Yg3zBfn&ust=1599327217371000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCQg6yE0OsCFQAAAAAdAAAAABAP" width="300"/> 
+<img src="kin.png" width="300"/> 
 
 # Reinforcement Learning Challenge 2020
 
