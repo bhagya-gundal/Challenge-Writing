@@ -44,7 +44,17 @@ To get started, we recommend checking out one of the Colab tutorials:
 
 
 ## Implementation Guide
+Please incorporate below guidelines in your solution: 
 
+- Load the data 
+    - Please find a muti-variate time series data. 
+    - The depenent variable must be a real number with defined action choices.
+- Data Pre-processing
+    - Perform necessary pre-processing steps for time series data.
+    - Example 
+                - check if data is stationery or not?
+                - cast your Date column in date datatype and set it as your index
+              
 1. Create a open-gym ai environment for that dataset to be run for an RL algorithm
 2. Run one of the TF-Agents algorithms on it DQN, REINFORCE, DDPG, TD3, PPO or SAC
 3. Compare the RL learner to a random action agent and simple agents like Thompson sampling, e-greedy, or UBC
