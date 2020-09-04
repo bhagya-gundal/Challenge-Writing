@@ -10,8 +10,8 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge begin by finding a multivariate time series dataset whose dependent variable is a real number and has finite action choices. 
 
 ## Eligibility: 
-The challenge is open to current Northeastern University students.
-The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position during the Fall 2020. The position involves working closely with Kinesso. We sincerely hope you will participate to the challenge!!
+The challenge is open to the current Northeastern University students.
+The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position during the Fall 2020. The position involves working closely with Kinesso. We sincerely appreciate your interest and hope to see you participate in this challenge!
 
 ## Resources:
 
