@@ -52,6 +52,7 @@ Please incorporate below guidelines in your solution:
 - Data Pre-processing
     - Perform necessary pre-processing steps for time series data.
     - Example - Check if data is stationery or not? Cast your Date column in date datatype and set it as your index.
+    - Perform E-D-A on the data and visulize basic information 
               
 - Create a open-gym ai environment 
 
