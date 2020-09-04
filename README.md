@@ -7,7 +7,24 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm.
+Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm. You are encouraged to run any of the following TF-agent algorithms - DQN, REINFORCE, DDPG, TD3, PPO or SAC on it. Please go through step by step instructions for implementing the challenges.
+
+
+Currently the following algorithms are available under TF-Agents:
+
+*   [DQN: __Human level control through deep reinforcement learning__ Mnih et
+    al., 2015](https://deepmind.com/research/dqn/)
+*   [DDQN: __Deep Reinforcement Learning with Double Q-learning__ Hasselt et
+    al., 2015](https://arxiv.org/abs/1509.06461)
+*   [DDPG: __Continuous control with deep reinforcement learning__ Lillicrap et
+    al., 2015](https://arxiv.org/abs/1509.02971)
+*   [TD3: __Addressing Function Approximation Error in Actor-Critic Methods__
+    Fujimoto et al., 2018](https://arxiv.org/abs/1802.09477)
+*   [REINFORCE: __Simple Statistical Gradient-Following Algorithms for
+    Connectionist Reinforcement Learning__ Williams,
+    1992](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
+*   [PPO: __Proximal Policy Optimization Algorithms__ Schulman et al., 2017](https://arxiv.org/abs/1707.06347)
+*   [SAC: __Soft Actor Critic__ Haarnoja et al., 2018](https://arxiv.org/abs/1812.05905)
 
 ## Eligibility: 
 The challenge is open to the current Northeastern University students.
