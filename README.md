@@ -7,7 +7,7 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. 
+Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge begin by finding a multivariate time series dataset whose dependent variable is a real number and has finite action choices. 
 
 ## Eligibility: 
 The challenge is open to current Northeastern University students.
@@ -23,9 +23,7 @@ https://github.com/nikbearbrown/Google_Colab/blob/master/Thompson_Sampling_%26_T
 - Andre Cianflone - Thompson sampling
 https://colab.research.google.com/drive/1BHVH712x2Q2As9E5nN5Y8UR74T8w6AMO
 
-## Data:
 
-Find a multivariate time series dataset whose dependent variable is a real number and has action choices.
 
 ## The challenge:
 
