@@ -5,13 +5,13 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 # Reinforcement Learning Challenge 2020
 
-## Eligibility: 
-The challenge is open to current Northeastern University students.
-The purpose of this challenge is to pre-screen candidates for a Programmer-Analysts position during the Fall 2020. The position involves working closely with Kinosso. We sincerely hope you will partecipate to the challenge!!
-
 ## Introduction:
 
 In this challenge you will be working on....
+
+## Eligibility: 
+The challenge is open to current Northeastern University students.
+The purpose of this challenge is to pre-screen candidates for a Programmer-Analysts position during the Fall 2020. The position involves working closely with Kinosso. We sincerely hope you will partecipate to the challenge!!
 
 ## Resources:
 
