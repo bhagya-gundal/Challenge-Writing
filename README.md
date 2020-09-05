@@ -1,5 +1,5 @@
 
-<img src="https://github.com/bhagya-gundal/Challenge-Writing/blob/master/skunk%20icon.jpeg" width="300"/> 
+<img src="skunk%20icon.jpeg" width="300"/> 
 
 # AI Skunkworks Lab RL Challenge 2020
 
