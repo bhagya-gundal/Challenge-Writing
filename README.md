@@ -65,7 +65,7 @@ Some Points to include:
 
 ## Your submission:
 The jupyter notebook should include a detailed analysis and conclusion.
-When you're finished, please place the notebook and any other code you wrote into a zipped folder and e-mail to "ni.bear@northeastern.edu".
+When you're finished, please place the notebook and any other code you wrote into a zipped folder and e-mail to "ni.brown@neu.edu" & "nikbearbrown@gmail.com".
 
 
 
