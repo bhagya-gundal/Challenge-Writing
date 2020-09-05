@@ -56,7 +56,7 @@ Please incorporate below guidelines in your solution:
     
 - Compare the RL learner to a random action agent and simple agents like the Thompson sampling, e-greedy, or UBC
 
-- Describe the signals and action space for the five TF-Agents algorithms 
+- Describe the signals and action space for the five TF-Agents algorithms <br /> 
 Some Points to include:
     - Can they take continuous or only discrete signals? 
     - Can the agent only be used in any environment which has a discrete action space?
