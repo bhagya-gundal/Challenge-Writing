@@ -6,7 +6,7 @@ Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutio
 
 ## Introduction:
 
-Learning to act optimally on time series data is of practical uses in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using a conventional machine leanrning techniques. This is where reinforcement learning comes in picture. In this challenge you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build a open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm. You are encouraged to run any of the following TF-agent algorithms - DQN, REINFORCE, DDPG, TD3, PPO or SAC on it. Please go through step by step implementation guide to meet the requirements of challenge.
+Learning to act optimally on time series data is of practical use in various industries. The value of taking an action depends on future actions and states, which makes it difficult to be modeled using conventional machine learning techniques. This is where reinforcement learning comes in the picture. In this challenge, you will be working on multivariate time series data. To get started on the challenge, begin by finding a multivariate time series dataset whose dependent/target variable is a real number and has finite action choices/actions. In this challenge, you will build an open-gym ai (openAI gym) environment for that dataset to be able to run for an RL algorithm. You are encouraged to run any of the following TF-agent algorithms - DQN, REINFORCE, DDPG, TD3, PPO, or SAC on it. Please go through step by step implementation guide to meet the requirements of the challenge.
 
 
 Currently the following algorithms are available under TF-Agents:
@@ -41,13 +41,13 @@ To get started, we recommend checking out one of the Colab tutorials:
 
 
 ## Implementation Guide
-Please incorporate below guidelines in your solution: 
+Please incorporate the below guidelines in your solution: 
 
 - Load the data 
-    - Please find a muti-variate time series data
-    - The depenent variable must be a real number with defined action choices
+    - Please find a muti-variate time-series data
+    - The dependent variable must be a real number with defined action choices
               
-- Create a open-gym ai environment for your dataset
+- Create an open-gym ai environment for your dataset
 
 - Run one of the TF-Agents algorithms in the environment
     - You can select one of these RL algorithms of your choice and run them in the environment created by you
@@ -55,7 +55,7 @@ Please incorporate below guidelines in your solution:
     
 - Compare the RL learner with any of the following:
     - A random action agent 
-    - Simple agents like the Thompson sampling, e-greedy, or UBC
+    - Simple agents like Thompson sampling, e-greedy, or UBC
 
 - Describe the signals and action space for the TF-Agents algorithms and include points such as:
     - Can they take continuous or only discrete signals? 
