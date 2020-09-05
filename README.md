@@ -39,7 +39,6 @@ To get started, we recommend checking out one of the Colab tutorials:
   https://colab.research.google.com/drive/1BHVH712x2Q2As9E5nN5Y8UR74T8w6AMO
 
 
-
 ## Implementation Guide
 Please incorporate the below guidelines in your solution: 
 
