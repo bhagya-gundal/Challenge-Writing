@@ -1,8 +1,6 @@
-<img src="kin.png" width="300"/> 
 
-Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutions through enhanced or newly-created products and services, maximizing the impact of traditional and addressable media. Kinesso’s core principle is to drive smarter business decisions and better outcomes for clients using our suite of data and technology services.
-
-# Reinforcement Learning Challenge 2020
+<img src="ai.png" width="300"/> 
+# AI Skunkworks Lab RL Challenge 2020
 
 ## Introduction:
 
@@ -66,6 +64,12 @@ Please incorporate the below guidelines in your solution:
 The jupyter notebook should include a detailed analysis and conclusion.
 Please submit the notebook and any other code you wrote into a zipped folder and e-mail to "nikbearbrown@gmail.com".
 
+
+# Contributor
+#### This educational grant is made possible by a generous contribution by Kinesso
+<img src="kin.png" width="300"/> 
+
+Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutions through enhanced or newly-created products and services, maximizing the impact of traditional and addressable media. Kinesso’s core principle is to drive smarter business decisions and better outcomes for clients using our suite of data and technology services.
 ### Thank You!
 
 
