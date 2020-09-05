@@ -64,7 +64,7 @@ Please incorporate the below guidelines in your solution:
 
 ## Your submission:
 The jupyter notebook should include a detailed analysis and conclusion.
-Please submit the notebook and any other code you wrote into a zipped folder and e-mail to "ni.brown@neu.edu" & "nikbearbrown@gmail.com".
+Please submit the notebook and any other code you wrote into a zipped folder and e-mail to "nikbearbrown@gmail.com".
 
 ### Thank You!
 
