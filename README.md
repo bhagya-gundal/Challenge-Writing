@@ -13,8 +13,6 @@ Currently the following algorithms are available under TF-Agents:
 
 *   [DQN: __Human level control through deep reinforcement learning__ Mnih et
     al., 2015](https://deepmind.com/research/dqn/)
-*   [DDQN: __Deep Reinforcement Learning with Double Q-learning__ Hasselt et
-    al., 2015](https://arxiv.org/abs/1509.06461)
 *   [DDPG: __Continuous control with deep reinforcement learning__ Lillicrap et
     al., 2015](https://arxiv.org/abs/1509.02971)
 *   [TD3: __Addressing Function Approximation Error in Actor-Critic Methods__
@@ -46,26 +44,30 @@ To get started, we recommend checking out one of the Colab tutorials:
 Please incorporate below guidelines in your solution: 
 
 - Load the data 
-    - Please find a muti-variate time series data. 
-    - The depenent variable must be a real number with defined action choices.
+    - Please find a muti-variate time series data
+    - The depenent variable must be a real number with defined action choices
               
 - Create a open-gym ai environment for your dataset
 
 - Run one of the TF-Agents algorithms in the environment
-    - DQN, REINFORCE, DDPG, TD3, PPO or SAC
+    - You can select one of these RL algorithms of your choice and run them in the environment created by you
+    - RL Algorithms: DQN, REINFORCE, DDPG, TD3, PPO or SAC
     
-- Compare the RL learner to a random action agent and simple agents like the Thompson sampling, e-greedy, or UBC
+- Compare the RL learner with any of the following:
+    - A random action agent 
+    - Simple agents like the Thompson sampling, e-greedy, or UBC
 
-- Describe the signals and action space for the five TF-Agents algorithms <br /> 
-Some Points to include:
+- Describe the signals and action space for the TF-Agents algorithms and include points such as:
     - Can they take continuous or only discrete signals? 
     - Can the agent only be used in any environment which has a discrete action space?
 
-- Write about the pros and cons of the five TF-Agents algorithms
+- Write about the pros and cons of the TF-Agents algorithms
 
 ## Your submission:
 The jupyter notebook should include a detailed analysis and conclusion.
-When you're finished, please place the notebook and any other code you wrote into a zipped folder and e-mail to "ni.brown@neu.edu" & "nikbearbrown@gmail.com".
+Please submit the notebook and any other code you wrote into a zipped folder and e-mail to "ni.brown@neu.edu" & "nikbearbrown@gmail.com".
+
+### Thank You!
 
 
 
