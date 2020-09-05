@@ -1,5 +1,6 @@
 
 <img src="ai.png" width="300"/> 
+
 # AI Skunkworks Lab RL Challenge 2020
 
 ## Introduction:
