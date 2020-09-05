@@ -1,4 +1,3 @@
-
 <img src="kin.png" width="300"/> 
 
 Kinesso, the Marketing Engine of IPG, is focused on creating data-driven solutions through enhanced or newly-created products and services, maximizing the impact of traditional and addressable media. Kinesso’s core principle is to drive smarter business decisions and better outcomes for clients using our suite of data and technology services.
@@ -14,6 +13,8 @@ Currently the following algorithms are available under TF-Agents:
 
 *   [DQN: __Human level control through deep reinforcement learning__ Mnih et
     al., 2015](https://deepmind.com/research/dqn/)
+*   [DDQN: __Deep Reinforcement Learning with Double Q-learning__ Hasselt et
+    al., 2015](https://arxiv.org/abs/1509.06461)
 *   [DDPG: __Continuous control with deep reinforcement learning__ Lillicrap et
     al., 2015](https://arxiv.org/abs/1509.02971)
 *   [TD3: __Addressing Function Approximation Error in Actor-Critic Methods__
@@ -25,8 +26,7 @@ Currently the following algorithms are available under TF-Agents:
 *   [SAC: __Soft Actor Critic__ Haarnoja et al., 2018](https://arxiv.org/abs/1812.05905)
 
 ## Eligibility: 
-The challenge is open to the current Northeastern University students.
-The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position during the Fall 2020. The position involves working closely with Kinesso. We sincerely appreciate your interest and hope to see you participate in this challenge!
+The challenge is open to the current Northeastern University Graduate students. The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position for the coming the Fall semester. The position involves working closely with Kinesso. We sincerely appreciate your interest and hope to see you participate in this challenge!!
 
 ## Resources:
 To get started, we recommend checking out one of the Colab tutorials:
@@ -48,30 +48,25 @@ Please incorporate below guidelines in your solution:
 - Load the data 
     - Please find a muti-variate time series data. 
     - The depenent variable must be a real number with defined action choices.
-- Data Pre-processing
-    - Perform necessary pre-processing steps for time series data.
-    - Example - Check if data is stationery or not? Cast your Date column in date datatype and set it as your index.
-    - Perform E-D-A on the data and visulize features like patterns, unusual observations, changes over time, and relationships between variables.
               
-- Create a open-gym ai environment 
+- Create a open-gym ai environment for your dataset
 
-- Run one of the TF-Agents algorithms 
+- Run one of the TF-Agents algorithms in the environment
+    - DQN, REINFORCE, DDPG, TD3, PPO or SAC
+    
+- Compare the RL learner to a random action agent and simple agents like the Thompson sampling, e-greedy, or UBC
 
-- Compare the RL learner 
-
-- Describe signals and action space for the five TF-Agents algorithms 
-    - (DQN, REINFORCE, DDPG, TD3, PPO or SAC). 
+- Describe the signals and action space for the five TF-Agents algorithms 
+Some Points to include:
     - Can they take continuous or only discrete signals? 
     - Can the agent only be used in any environment which has a discrete action space?
-- What are the pros and cons of the five TF-Agents algorithms?
-    - Please describe various pros and cons of each of the TF-Agent algorithms briefly.
 
+- Write about the pros and cons of the five TF-Agents algorithms
 
 ## Your submission:
-
-Deadline for the project is " ". The notebook should include a detailed analysis of our data, the models used and your scientific conclusions
-
+The jupyter notebook should include a detailed analysis and conclusion.
 When you're finished, please place the notebook and any other code you wrote into a zipped folder and e-mail to "ni.bear@northeastern.edu".
+
 
 
 
