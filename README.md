@@ -24,7 +24,7 @@ Currently the following algorithms are available under TF-Agents:
 *   [SAC: __Soft Actor Critic__ Haarnoja et al., 2018](https://arxiv.org/abs/1812.05905)
 
 ## Eligibility: 
-The challenge is open to the current Northeastern University Graduate students. The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position for the coming the Fall semester. The position involves working closely with Kinesso. We sincerely appreciate your interest and hope to see you participate in this challenge!!
+The challenge is open to the current Northeastern University Graduate students. The purpose of this challenge is to pre-screen candidates for a Programmer Analyst position for the coming Fall semester. The position involves working closely with Kinesso. We sincerely appreciate your interest and hope to see you participate in this challenge!!
 
 ## Resources:
 To get started, we recommend checking out one of the Colab tutorials:
